@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const REVIEW =
-  "One star. She types on the warmest seat in the house for eight hours straight, then acts shocked when I sit on her hands to file my complaint.";
+  "One star. I pushed his glass off the table to test gravity, and he shouted at me as if gravity were something I invented.";
 
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 
